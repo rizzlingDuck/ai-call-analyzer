@@ -1,0 +1,18 @@
+# Models (too large for GitHub)
+models/
+
+# Temp files
+temp_*.wav
+audio.rttm
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+*.vars
+
+# Cache
+.cache/
